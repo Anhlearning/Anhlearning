@@ -30,10 +30,12 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVP6unA9O2I0P4gfH5h3PcIq7eF5kH0Z8AJS4LIZiH5nPTH8dphXjUwnx-efjcH_pbrX0&usqp=CAU"/>
+  <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVP6unA9O2I0P4gfH5h3PcIq7eF5kH0Z8AJS4LIZiH5nPTH8dphXjUwnx-efjcH_pbrX0&usqp=CAU" width="48" height="48" />
+  <img src="https://techvccloud.mediacdn.vn/2020/8/14/148-15974015288501803718399-crop-15974015349661210457462.png" width="48" height="48" />
+  <img src =""
 </p>
 
 ## Activities:
- <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+ <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="70%" height="70%"/>
 
