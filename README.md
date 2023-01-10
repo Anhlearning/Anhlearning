@@ -37,5 +37,5 @@
 </p>
 
 ## Activities:
- <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="70%" height="70%"/>
+ <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" height="70%"/>
 
