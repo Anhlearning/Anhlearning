@@ -34,6 +34,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVP6unA9O2I0P4gfH5h3PcIq7eF5kH0Z8AJS4LIZiH5nPTH8dphXjUwnx-efjcH_pbrX0&usqp=CAU" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="48" height="48" />
   <img src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="48" height="48"/>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg" width ="48" height="48"/>
+  <img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png" width ="48" height="48"/>
+  <img src="https://www.quanle.me/wp-content/uploads/2021/07/nextjs.png" width ="48" height="48"/>
+  
 </p>
 
 ## Activities:
