@@ -15,7 +15,7 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinhhoanganh/" target="_blank">
+  <a href="https://www.linkedin.com/in/%C4%91inh-ho%C3%A0ng-anh-19b5aa265/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/talaconquy.22/">
