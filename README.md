@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" width="48" height="48" />
   <img src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="48" height="48"/>
-  <img src="[https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png](https://res.cloudinary.com/teepublic/image/private/s--cccL-vZS--/c_crop,x_10,y_10/c_fit,h_747/c_crop,g_north_west,h_1038,w_1038,x_-84,y_-150/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-195,y_-261/b_rgb:484849/c_limit,f_jpg,h_630,q_90,w_630/v1587450275/production/designs/9317751_3.jpg)https://res.cloudinary.com/teepublic/image/private/s--cccL-vZS--/c_crop,x_10,y_10/c_fit,h_747/c_crop,g_north_west,h_1038,w_1038,x_-84,y_-150/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-195,y_-261/b_rgb:484849/c_limit,f_jpg,h_630,q_90,w_630/v1587450275/production/designs/9317751_3.jpg" width ="48" height="48"/>
+  <img src="https://res.cloudinary.com/teepublic/image/private/s--cccL-vZS--/c_crop,x_10,y_10/c_fit,h_747/c_crop,g_north_west,h_1038,w_1038,x_-84,y_-150/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-195,y_-261/b_rgb:484849/c_limit,f_jpg,h_630,q_90,w_630/v1587450275/production/designs/9317751_3.jpg" width ="48" height="48"/>
   <img src="https://images.viblo.asia/cb7f3051-b4f7-4ca0-932a-0f32f8e1fd0a.png" width ="48" height="48"/>
 </p>
 
