@@ -1,6 +1,6 @@
 # 🕹️ Welcome to My Game Development Journey! 🎮
 
-![Game Dev Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Game+Dev+Portfolio)
+![Game Dev Banner](https://i.pinimg.com/736x/e2/55/ea/e255ea72db2a4dfb3114aaeca481abcf.jpg)
 
 Hi there! I'm **[Your Name]**, a passionate game developer specializing in creating immersive experiences and interactive worlds. From coding mechanics to crafting pixel-perfect art, I love every part of the game development process. Here's what you'll find in my profile:
 
