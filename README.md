@@ -40,7 +40,7 @@ Hi there! I'm **[Dinh Hoang Anh]**, a passionate game developer specializing in 
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x200?text=Thank+you+for+visiting!" alt="Thank You Banner">
+  <img src="https://i.pinimg.com/originals/43/92/30/43923068f79f5093e5571dc82970a7c3.gif" alt="Thank You Banner">
   <br><br>
   <b>"Play, Create, Repeat."</b>
 </div>
