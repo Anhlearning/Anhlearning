@@ -25,12 +25,12 @@ Hi there! I'm **[Dinh Hoang Anh]**, a passionate game developer specializing in 
 - Join of [Game Jam Name] 2023.
 ## 💻 My Tools
 
-| Tool            | Purpose                | Proficiency |
-|-----------------|------------------------|-------------|
-| Unity           | Game Development       | ⭐⭐⭐⭐⭐      |
-| Unreal Engine   | Game Development       | ⭐⭐⭐⭐       |
-| Blender         | 3D Modeling            | ⭐⭐⭐⭐⭐      |
-| Photoshop       | 2D Art                 | ⭐⭐⭐⭐       |
+| Tool            | Purpose                | 
+|-----------------|------------------------|
+| Unity           | Game Development       | 
+| Unreal Engine   | Game Development       | 
+| Blender         | 3D Modeling            | 
+| Photoshop       | 2D Art                 |
 
 ## 🌍 Connect with Me
 
