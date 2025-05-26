@@ -29,8 +29,8 @@ Hi there! I'm **[Dinh Hoang Anh]**, a passionate game developer specializing in 
 |-----------------|------------------------|
 | Unity           | Game Development       | 
 | Unreal Engine   | Game Development       | 
-| Blender         | 3D Modeling            | 
-| Photoshop       | 2D Art                 |
+| C#              | Building server, ConsoleApp,ASP.NET| 
+| Netwoking framework: Fishnet, Netcode, Riptide| Making online game|
 
 ## 🌍 Connect with Me
 
